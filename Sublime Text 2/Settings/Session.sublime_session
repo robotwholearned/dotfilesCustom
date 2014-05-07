@@ -1,0 +1,821 @@
+{
+	"folder_history":
+	[
+		"/private/etc/apache2",
+		"/Users/cassandras/repos/middleman-bootstrap",
+		"/Users/cassandras/repos/baseman",
+		"/Users/cassandras/manvsmagic",
+		"/Users/cassandras/repos/manvsmagic.github.io",
+		"/Users/cassandras/man_vs_magic",
+		"/Users/cassandras/middleman-twitter-bootstrap",
+		"/Users/cassandras/Dropbox/Apps/Brace/wevs.brace.io"
+	],
+	"last_window_id": 16,
+	"settings":
+	{
+		"new_window_height": 752.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pad",
+						"padding-top"
+					],
+					[
+						"move",
+						"moveOption"
+					],
+					[
+						"padding",
+						"padding-right"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"padd",
+						"padding-bottom"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"image",
+						"background-image"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 137.0,
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 583.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/cassandras/manvsmagic/data/blog_roll.yml",
+				"/Users/cassandras/manvsmagic/source/index.html.erb",
+				"/Users/cassandras/manvsmagic/config.rb",
+				"/Users/cassandras/manvsmagic/source/comic.html.erb",
+				"/Users/cassandras/.bashrc",
+				"/Users/cassandras/.bash_profile",
+				"/Users/cassandras/.bash_history",
+				"/Users/cassandras/manvsmagic/Gemfile.lock",
+				"/Users/cassandras/manvsmagic/source/blog/2014-04-07-nostalgia.html.markdown",
+				"/Users/cassandras/manvsmagic/source/layout.erb",
+				"/Users/cassandras/manvsmagic/source/_navigation_arrows.erb",
+				"/Users/cassandras/manvsmagic/source/template.html.erb",
+				"/Users/cassandras/manvsmagic/source/_navigation_arrows",
+				"/Users/cassandras/manvsmagic/source/navigation_arrows",
+				"/Users/cassandras/manvsmagic/source/about/template.html.erb",
+				"/Users/cassandras/manvsmagic/source/layouts/blog_layout.erb",
+				"/Users/cassandras/manvsmagic/source/blog/2014-03-10-one-man-s-thrash-is-another-man-s-pleasure.html.markdown",
+				"/Users/cassandras/manvsmagic/source/blog/2014-03-24-oh-the-places-we-will-go.html.markdown",
+				"/Users/cassandras/manvsmagic/source/blog/2014-04-02-weekends-with-daddy.html.markdown",
+				"/Users/cassandras/manvsmagic/source/blog/2014-02-13-feeling-it-comic.html.markdown",
+				"/Users/cassandras/manvsmagic/data/people.yml",
+				"/Users/cassandras/manvsmagic/source/category.html.erb",
+				"/Users/cassandras/manvsmagic/config.rb.bak",
+				"/Users/cassandras/manvsmagic/source/data/people.yml",
+				"/Users/cassandras/Desktop/crew.cpp",
+				"/Users/cassandras/repos/starFox/main.cpp",
+				"/Users/cassandras/manvsmagic/source/blog/2014-03-31-happy-birthday-son.html.markdown",
+				"/Users/cassandras/manvsmagic/source/calendar.html.erb",
+				"/Users/cassandras/manvsmagic/Gemfile",
+				"/Users/cassandras/manvsmagic/source/images/weekends-with-daddy_manvsmagic.png",
+				"/Users/cassandras/Downloads/main.cpp",
+				"/Users/cassandras/repos/starFox/.gitignore",
+				"/Users/cassandras/man_vs_magic/source/blog/2014-03-26-trying-times.html.markdown",
+				"/Users/cassandras/man_vs_magic/source/_footer.html.erb",
+				"/Users/cassandras/man_vs_magic/source/blog/2014-03-24-oh-the-places-we-will-go.html.markdown",
+				"/Users/cassandras/man_vs_magic/config.rb",
+				"/Users/cassandras/man_vs_magic/source/feed.xml.builder",
+				"/Users/cassandras/repos/solarized/apple-xcode4-solarized/README.md",
+				"/Users/cassandras/repos/manvsmagic.github.io/CNAME",
+				"/Users/cassandras/man_vs_magic/source/blog/2014-02-20-ontheplayground.html.markdown",
+				"/Users/cassandras/man_vs_magic/source/blog/2014-02-13-feeling-it-comic.html.markdown",
+				"/Users/cassandras/man_vs_magic/source/blog/2014-02-14-granny.html.markdown",
+				"/Users/cassandras/man_vs_magic/source/blog/2014-02-15-oldsucks.html.markdown",
+				"/Users/cassandras/man_vs_magic/source/blog/2014-02-16-jobhunt.html.markdown",
+				"/Users/cassandras/man_vs_magic/source/blog/2014-02-17-officer.html.markdown",
+				"/Users/cassandras/man_vs_magic/source/blog/2014-02-21-verification.html.markdown",
+				"/Users/cassandras/man_vs_magic/source/blog/2014-02-22-faceyourfears.html.markdown",
+				"/Users/cassandras/man_vs_magic/source/blog/2014-02-28-loversquarrel.html.markdown",
+				"/Users/cassandras/man_vs_magic/source/blog/2014-03-04-tuesdays.html.markdown",
+				"/Users/cassandras/man_vs_magic/source/blog/2014-03-06-the-reason-its-such-a-big-deal.html.markdown",
+				"/Users/cassandras/man_vs_magic/source/blog/2014-03-10-one-man-s-thrash-is-another-man-s-pleasure.html.markdown",
+				"/Users/cassandras/man_vs_magic/source/blog/2014-03-12-along-came-a-spider.html.markdown",
+				"/Users/cassandras/man_vs_magic/source/blog/2014-03-17-future-so-bright-i-need-sunglasses.html.markdown",
+				"/Users/cassandras/man_vs_magic/source/blog/2014-03-19-spoilers.html.markdown",
+				"/Users/cassandras/man_vs_magic/source/images/oh-the-places-we'll-go_manvsmagic.png",
+				"/Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss",
+				"/Users/cassandras/man_vs_magic/source/index.html.erb",
+				"/Users/cassandras/man_vs_magic/source/_pagination_navigation.erb",
+				"/Users/cassandras/man_vs_magic/Gemfile",
+				"/Users/cassandras/man_vs_magic/extras.config.rb",
+				"/Users/cassandras/man_vs_magic/source/layout.erb",
+				"/Users/cassandras/man_vs_magic/build/2014.html",
+				"/Users/cassandras/man_vs_magic/source/_slideout.html.erb",
+				"/Users/cassandras/man_vs_magic/source/blog/2014-02-21-faceyourfears.html.markdown",
+				"/Users/cassandras/man_vs_magic/Rakefile",
+				"/Users/cassandras/man_vs_magic/Gemfile.lock",
+				"/Users/cassandras/man_vs_magic/source/archive.html.erb",
+				"/Users/cassandras/man_vs_magic/source/layouts/blog_layout.erb",
+				"/Users/cassandras/man_vs_magic/source/calendar.html.erb",
+				"/Users/cassandras/man_vs_magic/build/2/index.html",
+				"/Users/cassandras/man_vs_magic/build/2014/02.html",
+				"/Users/cassandras/man_vs_magic/build/index.html",
+				"/Users/cassandras/man_vs_magic/source/layout/blog_layout.erb",
+				"/Users/cassandras/man_vs_magic/source/blog/2011-10-18-middleman.html.markdown",
+				"/Users/cassandras/man_vs_magic/source/blog/2012-01-01-example-article.html.markdown",
+				"/Users/cassandras/man_vs_magic/source/_sidebar.html.erb",
+				"/Users/cassandras/man_vs_magic/source/2014-02-19-first-comic.html.markdown",
+				"/Users/cassandras/man_vs_magic/source/javascripts/application.js",
+				"/Users/cassandras/man_vs_magic/.gitignore",
+				"/Users/cassandras/man_vs_magic/source/2011-10-18-middleman.html.markdown",
+				"/Users/cassandras/middleman-twitter-bootstrap/config.rb",
+				"/Users/cassandras/middleman-twitter-bootstrap/source/2011-10-18-middleman.html.markdown",
+				"/Users/cassandras/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"/Users/cassandras/manvsmagic, -/Users/cassandras/manvsmagic/build*",
+					"/Users/cassandras/manvsmagic, -*/build,-*.txt",
+					"/Users/cassandras/manvsmagic,-*/build",
+					"/Users/cassandras/manvsmagic,-/build*",
+					"/Users/cassandras/manvsmagic,-/Users/cassandras/manvsmagic/build",
+					"/Users/cassandras/manvsmagic",
+					"/Users/cassandras/man_vs_magic",
+					"/Users/cassandras/man_vs_magic, -/build",
+					"/Users/cassandras/man_vs_magic",
+					"/Users/cassandras/man_vs_magic, -/Users/cassandras/man_vs_magic/build/*",
+					"/Users/cassandras/man_vs_magic -/Users/cassandras/man_vs_magic/build/*",
+					"/Users/cassandras/man_vs_magic",
+					"/Users/cassandras/man_vs_magic, -/Users/cassandras/man_vs_magic/build/*",
+					"/Users/cassandras/man_vs_magic, -/Users/cassandras/man_vs_magic/build/",
+					"/Users/cassandras/man_vs_magic",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"next",
+					"right",
+					"padding",
+					"border",
+					"fa fa-angle-double",
+					"fa fa-angle-right",
+					"fa fa-angle-left",
+					"fa",
+					"next",
+					"\"></",
+					"previous",
+					"first",
+					"span",
+					"fa fa-step-forward",
+					"fa fa-step-backward",
+					"navigation-arrows-faded",
+					"current_page_number",
+					"footer",
+					"fa",
+					"article",
+					"article-number",
+					"	",
+					"name",
+					"paginate",
+					"}}",
+					"{{",
+					"Archive for",
+					"change",
+					"moveOption",
+					"int",
+					"		return choice;\n",
+					"footer",
+					"fa-arrow-left",
+					"article",
+					"to_html",
+					"def_to",
+					"<p>Page",
+					"1 of 9",
+					"calendar",
+					"page_articles",
+					"fa-",
+					"link_to",
+					"archive",
+					"250px",
+					"0.3s",
+					"\\{",
+					"{",
+					";",
+					"fa",
+					"partial",
+					"/images",
+					"Previous",
+					"Bundler",
+					"%>\n",
+					"\"{",
+					"layout",
+					"%>\n",
+					"layout_dir",
+					" </",
+					"current_page",
+					"title",
+					"calendar",
+					"Blog"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"\\n \\{ \\n",
+					"\\{ \\n",
+					"{ \\n",
+					"; \\n",
+					";"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 38.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 116.0
+			},
+			"replace":
+			{
+				"height": 72.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 135.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1280.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pad",
+						"padding-top"
+					],
+					[
+						"move",
+						"moveOption"
+					],
+					[
+						"padding",
+						"padding-right"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"padd",
+						"padding-bottom"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"image",
+						"background-image"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/cassandras/manvsmagic/data/blog_roll.yml",
+					"settings":
+					{
+						"buffer_size": 2833,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/cassandras/manvsmagic/source/blog/2014-04-16-if-you-have-to-ask.html.markdown",
+					"settings":
+					{
+						"buffer_size": 148,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/cassandras/manvsmagic/source/blog/2014-04-21-down-to-clown.html.markdown",
+					"settings":
+					{
+						"buffer_size": 132,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 137.0,
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 583.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/cassandras/manvsmagic/source/blog/2014-04-14-male-enhancement.html.markdown",
+				"/Users/cassandras/manvsmagic/source/blog/2014-04-09-haunting.html.markdown",
+				"/Users/cassandras/manvsmagic/source/comic.html.erb",
+				"/Users/cassandras/manvsmagic/Gemfile",
+				"/Users/cassandras/manvsmagic/source/stylesheets/application.css.scss",
+				"/Users/cassandras/manvsmagic/source/_navigation_arrows.erb",
+				"/Users/cassandras/manvsmagic/data/blog_roll.yml",
+				"/Users/cassandras/manvsmagic/source/index.html.erb",
+				"/Users/cassandras/manvsmagic/config.rb",
+				"/Users/cassandras/.bashrc",
+				"/Users/cassandras/.bash_profile",
+				"/Users/cassandras/.bash_history",
+				"/Users/cassandras/manvsmagic/Gemfile.lock",
+				"/Users/cassandras/manvsmagic/source/blog/2014-04-07-nostalgia.html.markdown",
+				"/Users/cassandras/manvsmagic/source/layout.erb",
+				"/Users/cassandras/manvsmagic/source/template.html.erb",
+				"/Users/cassandras/manvsmagic/source/_navigation_arrows",
+				"/Users/cassandras/manvsmagic/source/navigation_arrows",
+				"/Users/cassandras/manvsmagic/source/about/template.html.erb",
+				"/Users/cassandras/manvsmagic/source/layouts/blog_layout.erb",
+				"/Users/cassandras/manvsmagic/source/blog/2014-03-10-one-man-s-thrash-is-another-man-s-pleasure.html.markdown",
+				"/Users/cassandras/manvsmagic/source/blog/2014-03-24-oh-the-places-we-will-go.html.markdown",
+				"/Users/cassandras/manvsmagic/source/blog/2014-04-02-weekends-with-daddy.html.markdown",
+				"/Users/cassandras/manvsmagic/source/blog/2014-02-13-feeling-it-comic.html.markdown",
+				"/Users/cassandras/manvsmagic/data/people.yml",
+				"/Users/cassandras/manvsmagic/source/category.html.erb",
+				"/Users/cassandras/manvsmagic/config.rb.bak",
+				"/Users/cassandras/manvsmagic/source/data/people.yml",
+				"/Users/cassandras/Desktop/crew.cpp",
+				"/Users/cassandras/repos/starFox/main.cpp",
+				"/Users/cassandras/manvsmagic/source/blog/2014-03-31-happy-birthday-son.html.markdown",
+				"/Users/cassandras/manvsmagic/source/calendar.html.erb",
+				"/Users/cassandras/manvsmagic/source/images/weekends-with-daddy_manvsmagic.png",
+				"/Users/cassandras/Downloads/main.cpp",
+				"/Users/cassandras/repos/starFox/.gitignore",
+				"/Users/cassandras/man_vs_magic/source/blog/2014-03-26-trying-times.html.markdown",
+				"/Users/cassandras/man_vs_magic/source/_footer.html.erb",
+				"/Users/cassandras/man_vs_magic/source/blog/2014-03-24-oh-the-places-we-will-go.html.markdown",
+				"/Users/cassandras/man_vs_magic/config.rb",
+				"/Users/cassandras/man_vs_magic/source/feed.xml.builder",
+				"/Users/cassandras/repos/solarized/apple-xcode4-solarized/README.md",
+				"/Users/cassandras/repos/manvsmagic.github.io/CNAME",
+				"/Users/cassandras/man_vs_magic/source/blog/2014-02-20-ontheplayground.html.markdown",
+				"/Users/cassandras/man_vs_magic/source/blog/2014-02-13-feeling-it-comic.html.markdown",
+				"/Users/cassandras/man_vs_magic/source/blog/2014-02-14-granny.html.markdown",
+				"/Users/cassandras/man_vs_magic/source/blog/2014-02-15-oldsucks.html.markdown",
+				"/Users/cassandras/man_vs_magic/source/blog/2014-02-16-jobhunt.html.markdown",
+				"/Users/cassandras/man_vs_magic/source/blog/2014-02-17-officer.html.markdown",
+				"/Users/cassandras/man_vs_magic/source/blog/2014-02-21-verification.html.markdown",
+				"/Users/cassandras/man_vs_magic/source/blog/2014-02-22-faceyourfears.html.markdown",
+				"/Users/cassandras/man_vs_magic/source/blog/2014-02-28-loversquarrel.html.markdown",
+				"/Users/cassandras/man_vs_magic/source/blog/2014-03-04-tuesdays.html.markdown",
+				"/Users/cassandras/man_vs_magic/source/blog/2014-03-06-the-reason-its-such-a-big-deal.html.markdown",
+				"/Users/cassandras/man_vs_magic/source/blog/2014-03-10-one-man-s-thrash-is-another-man-s-pleasure.html.markdown",
+				"/Users/cassandras/man_vs_magic/source/blog/2014-03-12-along-came-a-spider.html.markdown",
+				"/Users/cassandras/man_vs_magic/source/blog/2014-03-17-future-so-bright-i-need-sunglasses.html.markdown",
+				"/Users/cassandras/man_vs_magic/source/blog/2014-03-19-spoilers.html.markdown",
+				"/Users/cassandras/man_vs_magic/source/images/oh-the-places-we'll-go_manvsmagic.png",
+				"/Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss",
+				"/Users/cassandras/man_vs_magic/source/index.html.erb",
+				"/Users/cassandras/man_vs_magic/source/_pagination_navigation.erb",
+				"/Users/cassandras/man_vs_magic/Gemfile",
+				"/Users/cassandras/man_vs_magic/extras.config.rb",
+				"/Users/cassandras/man_vs_magic/source/layout.erb",
+				"/Users/cassandras/man_vs_magic/build/2014.html",
+				"/Users/cassandras/man_vs_magic/source/_slideout.html.erb",
+				"/Users/cassandras/man_vs_magic/source/blog/2014-02-21-faceyourfears.html.markdown",
+				"/Users/cassandras/man_vs_magic/Rakefile",
+				"/Users/cassandras/man_vs_magic/Gemfile.lock",
+				"/Users/cassandras/man_vs_magic/source/archive.html.erb",
+				"/Users/cassandras/man_vs_magic/source/layouts/blog_layout.erb",
+				"/Users/cassandras/man_vs_magic/source/calendar.html.erb",
+				"/Users/cassandras/man_vs_magic/build/2/index.html",
+				"/Users/cassandras/man_vs_magic/build/2014/02.html",
+				"/Users/cassandras/man_vs_magic/build/index.html",
+				"/Users/cassandras/man_vs_magic/source/layout/blog_layout.erb",
+				"/Users/cassandras/man_vs_magic/source/blog/2011-10-18-middleman.html.markdown",
+				"/Users/cassandras/man_vs_magic/source/blog/2012-01-01-example-article.html.markdown",
+				"/Users/cassandras/man_vs_magic/source/_sidebar.html.erb",
+				"/Users/cassandras/man_vs_magic/source/2014-02-19-first-comic.html.markdown",
+				"/Users/cassandras/man_vs_magic/source/javascripts/application.js",
+				"/Users/cassandras/man_vs_magic/.gitignore",
+				"/Users/cassandras/man_vs_magic/source/2011-10-18-middleman.html.markdown",
+				"/Users/cassandras/middleman-twitter-bootstrap/config.rb",
+				"/Users/cassandras/middleman-twitter-bootstrap/source/2011-10-18-middleman.html.markdown",
+				"/Users/cassandras/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"/Users/cassandras/manvsmagic, -/Users/cassandras/manvsmagic/build*",
+					"/Users/cassandras/manvsmagic, -*/build,-*.txt",
+					"/Users/cassandras/manvsmagic,-*/build",
+					"/Users/cassandras/manvsmagic,-/build*",
+					"/Users/cassandras/manvsmagic,-/Users/cassandras/manvsmagic/build",
+					"/Users/cassandras/manvsmagic",
+					"/Users/cassandras/man_vs_magic",
+					"/Users/cassandras/man_vs_magic, -/build",
+					"/Users/cassandras/man_vs_magic",
+					"/Users/cassandras/man_vs_magic, -/Users/cassandras/man_vs_magic/build/*",
+					"/Users/cassandras/man_vs_magic -/Users/cassandras/man_vs_magic/build/*",
+					"/Users/cassandras/man_vs_magic",
+					"/Users/cassandras/man_vs_magic, -/Users/cassandras/man_vs_magic/build/*",
+					"/Users/cassandras/man_vs_magic, -/Users/cassandras/man_vs_magic/build/",
+					"/Users/cassandras/man_vs_magic",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"next",
+					"right",
+					"padding",
+					"border",
+					"fa fa-angle-double",
+					"fa fa-angle-right",
+					"fa fa-angle-left",
+					"fa",
+					"next",
+					"\"></",
+					"previous",
+					"first",
+					"span",
+					"fa fa-step-forward",
+					"fa fa-step-backward",
+					"navigation-arrows-faded",
+					"current_page_number",
+					"footer",
+					"fa",
+					"article",
+					"article-number",
+					"	",
+					"name",
+					"paginate",
+					"}}",
+					"{{",
+					"Archive for",
+					"change",
+					"moveOption",
+					"int",
+					"		return choice;\n",
+					"footer",
+					"fa-arrow-left",
+					"article",
+					"to_html",
+					"def_to",
+					"<p>Page",
+					"1 of 9",
+					"calendar",
+					"page_articles",
+					"fa-",
+					"link_to",
+					"archive",
+					"250px",
+					"0.3s",
+					"\\{",
+					"{",
+					";",
+					"fa",
+					"partial",
+					"/images",
+					"Previous",
+					"Bundler",
+					"%>\n",
+					"\"{",
+					"layout",
+					"%>\n",
+					"layout_dir",
+					" </",
+					"current_page",
+					"title",
+					"calendar",
+					"Blog"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"\\n \\{ \\n",
+					"\\{ \\n",
+					"{ \\n",
+					"; \\n",
+					";"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/cassandras/manvsmagic"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/cassandras/manvsmagic/data/blog_roll.yml",
+							"settings":
+							{
+								"buffer_size": 2833,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2752,
+										2752
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/YAML/YAML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1134.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/cassandras/manvsmagic/source/blog/2014-04-16-if-you-have-to-ask.html.markdown",
+							"settings":
+							{
+								"buffer_size": 148,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										67,
+										148
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Markdown/Markdown.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/cassandras/manvsmagic/source/blog/2014-04-21-down-to-clown.html.markdown",
+							"settings":
+							{
+								"buffer_size": 132,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										31,
+										51
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Markdown/Markdown.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 38.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 116.0
+			},
+			"position": "0 4 1280 774 0 0 1280 778 ",
+			"replace":
+			{
+				"height": 72.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 206.0,
+			"status_bar_visible": true,
+			"window_id": 12,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
