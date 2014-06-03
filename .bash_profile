@@ -42,3 +42,10 @@ export PATH=$PATH:~/Scripts
 source ~/.profile
 
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
+
+if [ -f ~/bash_completion ]; then
+   . ~/bash_completion
+fi
+#set sublime as the text editor, w means that subl wont exit until file is closed
+export EDITOR='subl -w'
+PATH=$PATH:/Users/usandc2/Developer/adt-bundle-mac-x86_64-20140321/sdk/platform-tools/:/Users/usandc2/Developer/adt-bundle-mac-x86_64-20140321/sdk/tools/
