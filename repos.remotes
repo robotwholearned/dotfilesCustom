@@ -1,0 +1,13 @@
+#for dir in ~/repos/*; do (cd "$dir" && git remote -v > ~/repos.remotes); done
+https://github.com/BoltsFramework/Bolts-iOS.git
+https://github.com/steveklabnik/CLOSURE.git
+https://github.com/URXtech/URXShop.git
+https://github.com/mattt/Xcode-Snippets.git
+https://robotwholearned@github.com/robotwholearned/appLinksTest.git
+https://github.com/robotwholearned/dotfilesCustom.git
+https://github.com/rahims/iOS-Programming-The-Big-Nerd-Ranch-Guide.git
+https://robotwholearned@github.com/robotwholearned/manvsmagic.git
+https://USANDC2@devops-tools.pearson.com/stash/scm/occ/oc-ios.git
+https://robotwholearned@github.com/robotwholearned/pearson-poc.git
+https://github.com/whymirror/poignant-guide.git
+ssh://git@devops-tools.pearson.com/occ/quix-ios.git
